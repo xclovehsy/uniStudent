@@ -1,0 +1,6 @@
+/node_modules
+package.json
+.idea
+vue_cli/package-lock.json
+vue_cli/yarn.lock
+vue_cli/dist
