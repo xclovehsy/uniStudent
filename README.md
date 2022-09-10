@@ -3,7 +3,7 @@
 
 
 
-### 简介
+## 1. 项目简介
 
 **软件名称：**
 UnitStudent新生报道系统
@@ -17,7 +17,7 @@ UnitStudent新生报道系统
 
 
 
-### 需求
+## 2. 需求分析
 
 **需求范围：**
 重庆财经学院软件学院
@@ -25,9 +25,9 @@ UnitStudent新生报道系统
 **系统包括的功能范围：**
 
 1. 学校功能
-2.  查看新生报道实时进展
-3.  查看新生相关信息（专业，性别，地区，年龄）
-4.  查看新生职业性格大体分布
+2. 查看新生报道实时进展
+3. 查看新生相关信息（专业，性别，地区，年龄）
+4. 查看新生职业性格大体分布
 
 **新生功能：**
 
@@ -42,7 +42,7 @@ UnitStudent新生报道系统
 
 
 
-### 运行环境
+## 3. 运行环境
 
 本软件开发所使用的语言以及开发工具：
 
@@ -54,9 +54,9 @@ UnitStudent新生报道系统
 
 
 
-### 项目预览
+## 4. 项目预览
 
-#### 应用框架
+### 4.1. 应用框架
 
 ---
 
@@ -64,7 +64,7 @@ UnitStudent新生报道系统
 
 
 
-#### 流程图
+### 4.2. 流程图
 
 ---
 
@@ -78,17 +78,17 @@ UnitStudent新生报道系统
 
 
 
-#### 项目界面
+### 4.3. 项目界面
 
-##### 信息录入界面
+#### 4.3.1. 信息录入
 
 ---
 
 ![Screenshot_20220909_212753_com.tencent.mm](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100813507.jpg)
 
-![ok](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100822778.jpg)
+![](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100822778.jpg)
 
-##### 学校信息总览
+#### 4.3.2. 信息总览
 
 ---
 
@@ -104,7 +104,7 @@ UnitStudent新生报道系统
 
 ![Screenshot_20220909_212240_com.tencent.mm](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100813636.jpg)
 
-##### 手机端数据面板
+#### 4.3.3. 数据面板
 
 ---
 
@@ -112,13 +112,13 @@ UnitStudent新生报道系统
 
 ![Screenshot_20220909_212828_com.tencent.mm](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100814845.jpg)
 
-##### 新生入学指南
+#### 4.3.4. 新生指南
 
 ---
 
 ![Screenshot_20220909_212342_com.tencent.mm](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100813181.jpg)
 
-##### 新生性格测试
+#### 4.3.5. 性格测试
 
 ---
 
@@ -132,9 +132,25 @@ UnitStudent新生报道系统
 
 ![Screenshot_20220909_212702_com.tencent.mm](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100814057.jpg)
 
-##### 大数据面板
+#### 4.3.6. 大数据面板
 
 ---
 
 
 ![image-20220902150435623](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209021514993.jpg)
+
+
+
+## 5. 程序入口
+
+**程序入口二维码：**
+
+![-170c280b23612a5c](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209102321648.jpg)
+
+
+
+![-1bf9d8e9c0a82e3](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209102321486.jpg)
+
+> 大数据面板：http://v.yuntus.com/tcv/0590A5ac63f90BA555CE76d4686F0772
+
+
