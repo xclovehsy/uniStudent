@@ -86,7 +86,7 @@ UnitStudent新生报道系统
 
 ![Screenshot_20220909_212753_com.tencent.mm](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100813507.jpg)
 
-![](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100813507.jpg)
+![ok](https://xc-figure.oss-cn-hangzhou.aliyuncs.com/img/202209100822778.jpg)
 
 ##### 学校信息总览
 
